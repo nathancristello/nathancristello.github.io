@@ -80,12 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Nathan Cristello"
-  avatar: "profile.png"
-  bio: |
-    Astronomy and Astrophysics Student
-    
-    Penn State University
+  name             : "Nathan Cristello"
+  avatar           : "profile.png"
+  bio              : "Astronomy and Astrophysics Student at Penn State University"
   location         : 
   employer         :
   pubmed           : 
