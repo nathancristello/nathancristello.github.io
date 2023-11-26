@@ -82,7 +82,9 @@ analytics:
 author:
   name: "Nathan Cristello"
   avatar: "profile.png"
-  bio: "Astronomy and Astrophyics Student" \n "Penn State University"
+  bio: |
+    Astronomy and Astrophysics Student
+    Penn State University
   location         : 
   employer         :
   pubmed           : 
